@@ -1,5 +1,5 @@
 PODS:
-  - BennnytCapacitorDynamicIsland (0.0.7):
+  - BennnytCapacitorDynamicIsland (0.0.13):
     - Capacitor
   - Capacitor (7.4.2):
     - CapacitorCordova
@@ -39,7 +39,7 @@ EXTERNAL SOURCES:
     :path: "../../node_modules/@capacitor/status-bar"
 
 SPEC CHECKSUMS:
-  BennnytCapacitorDynamicIsland: 19e1be38109264b04def6f23126446d3d7d98b3e
+  BennnytCapacitorDynamicIsland: 131269cd2a3b5c5501ae3b9f7e06a9684e3bfaea
   Capacitor: 9d9e481b79ffaeacaf7a85d6a11adec32bd33b59
   CapacitorApp: febecbb9582cb353aed037e18ec765141f880fe9
   CapacitorCordova: 5e58d04631bc5094894ac106e2bf1da18a9e6151

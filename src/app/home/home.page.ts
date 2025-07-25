@@ -7,14 +7,14 @@ import { AppGame } from './game.component';
   selector: 'app-home',
   templateUrl: 'home.page.html',
   styleUrls: ['home.page.scss'],
-  imports: [IonIcon, IonButton, IonHeader, IonToolbar, IonTitle, IonContent, AppGame],
+  imports: [IonButton, IonHeader, IonToolbar, IonTitle, IonContent, AppGame],
 })
 export class HomePage {
   constructor() {}
 
   testDynamicIsland() {
-    DynamicIsland.greet({
-      name: 'Benny',
+    DynamicIsland.alert({
+      message: 'Pushed.'
     })
   }
 }
